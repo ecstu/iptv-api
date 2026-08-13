@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-13 01:47:30,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-08-14 01:46:55,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -38,8 +38,8 @@ CCTV-11,http://112.27.235.94:8000/hls/12/index.m3u8
 CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+CCTV-12,http://182.150.23.74:808/hls/12/index.m3u8
 CCTV-12,http://59.39.89.130:60901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
@@ -57,7 +57,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
 
 📡卫视频道,#genre#
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 广东卫视,http://112.27.235.94:8000/hls/30/index.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
@@ -69,8 +68,8 @@ CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
 北京卫视,http://112.27.235.94:8000/hls/27/index.m3u8
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
-湖北卫视,http://59.39.89.130:60901/tsfile/live/0125_12.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://182.150.23.74:808/hls/28/index.m3u8
+湖北卫视,http://59.39.89.130:60901/tsfile/live/0125_12.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://183.11.239.36:808/hls/46/index.m3u8
 黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
 黑龙江卫视,http://183.11.239.36:808/hls/48/index.m3u8
@@ -78,8 +77,8 @@ CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
 黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8
 黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
-安徽卫视,http://59.39.89.130:60901/tsfile/live/0125_6.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://182.150.23.74:808/hls/25/index.m3u8
+安徽卫视,http://59.39.89.130:60901/tsfile/live/0125_6.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://183.11.239.36:808/hls/40/index.m3u8
 安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
@@ -100,8 +99,8 @@ CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
 广西卫视,http://183.11.239.36:808/hls/56/index.m3u8
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8
 贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
-贵州卫视,http://59.39.89.130:60901/tsfile/live/0125_15.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://182.150.23.74:808/hls/26/index.m3u8
+贵州卫视,http://59.39.89.130:60901/tsfile/live/0125_15.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://183.11.239.36:808/hls/49/index.m3u8
 贵州卫视,http://112.27.235.94:8000/hls/46/index.m3u8
 海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
@@ -111,8 +110,8 @@ CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
 河北卫视,http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://112.27.235.94:8000/hls/37/index.m3u8
-吉林卫视,http://59.39.89.130:60901/tsfile/live/0125_19.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://182.150.23.74:808/hls/35/index.m3u8
+吉林卫视,http://59.39.89.130:60901/tsfile/live/0125_19.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://183.11.239.36:808/hls/10/index.m3u8
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -120,8 +119,8 @@ CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
 江苏卫视,http://183.11.239.36:808/hls/38/index.m3u8
 江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8
 江苏卫视,http://61.136.172.236:9901/tsfile/live/0127_1.m3u8
-江西卫视,http://59.39.89.130:60901/tsfile/live/0125_10.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://182.150.23.74:808/hls/30/index.m3u8
+江西卫视,http://59.39.89.130:60901/tsfile/live/0125_10.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://183.11.239.36:808/hls/44/index.m3u8
 江西卫视,http://112.27.235.94:8000/hls/44/index.m3u8
 江西卫视,http://61.136.172.236:9901/tsfile/live/0138_1.m3u8
