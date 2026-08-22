@@ -26,7 +26,6 @@ CCTV-The First Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?au
 CCTV-Weapon & Technology (1080p),http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 CCTV-Women's Fashion (1080p),http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 CCTV-World Geography (1080p),http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-Celestial Classic Movies (480p),https://streams.comclark.com/pknsd/celestial/playlist.m3u8
 Celestial Movies (576i),http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 CETV1 (576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
@@ -80,7 +79,6 @@ Lanzhou Comprehensive News Channel,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 Lanzhou Culture & Tourism Channel,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 Liangshan TV [Not 24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 Lighting Lives Blessing Nations TV Chinese (LLBN) (480p),https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
-Lotus TV (1080p),https://streams.comclark.com/pknhd/lotus_macau_hd/playlist.m3u8
 Love Nature (1080p),https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 Luxe TV (1080p),http://103.154.3.101:5001/live/1736.m3u8
 meWATCH LIVE 1 (1080p),https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
@@ -92,7 +90,7 @@ NTD TV Asia-Pacific,https://live.ntdtv.com/aplive200/playlist.m3u8
 NTD TV Canada,https://live.ntdtv.com/mllive860/playlist.m3u8
 NTD TV Canada West,https://live.ntdtv.com/cwlive220/playlist.m3u8
 NTD TV China,https://live.ntdtv.com/cnlive900/playlist.m3u8
-NTD TV West,https://live.ntdtv.com/uwlive990/playlist.m3u8
+NTD TV West (720p),https://ntd02.akamaized.net/HD-LA/index.m3u8
 Ou-Mun Macau Satellite Ch. 96 (720p),https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 Peace TV Chinese (1080p),https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
 QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
