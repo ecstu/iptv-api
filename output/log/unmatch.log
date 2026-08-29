@@ -41,7 +41,7 @@ CTi Variety (中天綜合台) (720p),http://23.237.10.66:16372
 CTS (HUA-CHI CTS) (1080p),rtmp://59.124.75.138:1935/sat/tv111
 CTS News (華視新聞資訊) [Geo-blocked],http://seb.sason.top/sc/hsxw_fhd.m3u8
 DaAi1 (大愛1) (720p),https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-DaAi2 (大愛2) (720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+DaAi 2 (1080p),http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
 DAAI TV,https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 DHA (720p) [Not 24/7],https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 Discovering China (1080p),https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
@@ -84,6 +84,7 @@ Lighting Lives Blessing Nations TV Chinese (LLBN) (480p),https://brightstar-chin
 Love Nature (1080p),https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 Luxe TV (1080p),http://103.154.3.101:5001/live/1736.m3u8
 meWATCH LIVE 1 (1080p),https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+MOMO TV (1080p),http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 Nanchang News & Generalist Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
 Nei Monggol TV (1080i) [Not 24/7],http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7],http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
