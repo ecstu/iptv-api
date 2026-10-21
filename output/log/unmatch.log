@@ -63,6 +63,7 @@ Dongguan Comprehensive News Channel,https://stream.sun0769.com/dgrtv1/mp4tv1_800
 Dragon TV International,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
 Dunhuang TV (1080p),http://117.156.28.119/270000001111/1110000028/index.m3u8
 EBC Financial News (1080p) [Not 24/7],http://seb.sason.top/sc/dscjxw_fhd.m3u8
+EBC Foreign Movie,http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
 EBC News (1080p) [Not 24/7],http://seb.sason.top/sc/dsxw_fhd.m3u8
 Fengshang Shopping Channel (1080p),http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
 FTV (Taiwan) (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=ms
@@ -88,6 +89,7 @@ Heilongjiang TV (1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224
 Hezheng TV,http://117.156.28.119/270000001111/1110000149/index.m3u8
 High Channel TV (1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
 Hong Kong International Business Channel (1080p) [Geo-blocked],https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+Hunan Economy Channel,https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 Hunan News Channel [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 Hunan Politics & Law Channel [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 Hunan TV (2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
@@ -138,6 +140,7 @@ Peace TV Chinese (1080p),https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
 Phoenix Chinese Channel (720p),http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 Phoenix InfoNews Channel (720p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 Pingxiang TV News Channel (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
+PTS 3,http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
 Qinghai TV (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
@@ -161,6 +164,7 @@ Shenzhen Satellite TV (2160p),https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u
 Sichuan Satellite TV (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
 Sichuan TV Women and Children Channel (720p) [Not 24/7],http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
 Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+SJTV,http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
 Taiwan Indigenous TV (720p),https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 TDM Entertainment (720p),https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 TDM Information (720p) [Not 24/7],https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
